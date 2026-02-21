@@ -1,0 +1,583 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1512916.png" group-title="BG| BULGARIA",BG| TV ART FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1512916&extension=ts&play_token=B99AbrQ2mc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154791.png" group-title="BG| BULGARIA",BG| BTV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154791&extension=ts&play_token=XVE4L0kebj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154787.png" group-title="BG| BULGARIA",BG| BTV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154787&extension=ts&play_token=ykjTaTIslz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154945.png" group-title="BG| BULGARIA",BG| BTV ACTION FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154945&extension=ts&play_token=a1S2DckmEa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154788.png" group-title="BG| BULGARIA",BG| BTV ACTION HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154788&extension=ts&play_token=Yw1btc5nCx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154789.png" group-title="BG| BULGARIA",BG| BTV CINEMA
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154789&extension=ts&play_token=D7vAw0TWeu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154790.png" group-title="BG| BULGARIA",BG| BTV COMEDY
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154790&extension=ts&play_token=E1l8T5cfwK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154792.png" group-title="BG| BULGARIA",BG| BTV STORY
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154792&extension=ts&play_token=qwExtEwrqf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1374365.png" group-title="BG| BULGARIA",BG| BTV STORY FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1374365&extension=ts&play_token=HTFF6gHi6t
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1532094.png" group-title="BG| BULGARIA",BG| 360 TUNEBOX FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1532094&extension=ts&play_token=ig8GLKRS5H
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154757.png" group-title="BG| BULGARIA",BG| 24 KITCHEN
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154757&extension=ts&play_token=yfqdjRjhvg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154758.png" group-title="BG| BULGARIA",BG| 24 KITCHEN HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154758&extension=ts&play_token=xBZsHDYPgM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1769933.png" group-title="BG| BULGARIA",BG| TV 999 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1769933&extension=ts&play_token=054qUAZZaI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154759.png" group-title="BG| BULGARIA",BG| ARENA ACTION HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154759&extension=ts&play_token=bVE2ROabN1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154765.png" group-title="BG| BULGARIA",BG| AGRO TV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154765&extension=ts&play_token=LUXlkaXn5A
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154766.png" group-title="BG| BULGARIA",BG| ALFA TV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154766&extension=ts&play_token=TDcGXVLiwi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154760.png" group-title="BG| BULGARIA",BG| AMC
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154760&extension=ts&play_token=KhagUwxhCk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154767.png" group-title="BG| BULGARIA",BG| ANIMAL PLANET
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154767&extension=ts&play_token=489cxiXMEs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154768.png" group-title="BG| BULGARIA",BG| ANIMAL PLANET HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154768&extension=ts&play_token=eXfG9NznEu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154761.png" group-title="BG| BULGARIA",BG| AUTO MOTO SPORT HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154761&extension=ts&play_token=kSDXAkHz28
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154762.png" group-title="BG| BULGARIA",BG| AXN
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154762&extension=ts&play_token=2Qer2ts7GC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154763.png" group-title="BG| BULGARIA",BG| AXN BLACK
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154763&extension=ts&play_token=wJYr8KEBGq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154764.png" group-title="BG| BULGARIA",BG| AXN WHITE
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154764&extension=ts&play_token=gAzVPssI2d
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154770.png" group-title="BG| BULGARIA",BG| BABY TV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154770&extension=ts&play_token=EL9ceMoOsx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154794.png" group-title="BG| BULGARIA",BG| BALKANIKA MUSIC
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154794&extension=ts&play_token=yG8SmK3W2v
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154795.png" group-title="BG| BULGARIA",BG| BALKANIKA MUSIC TV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154795&extension=ts&play_token=Z3TKEeYea4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1525615.png" group-title="BG| BULGARIA",BG| BALKAN MUSIC TV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1525615&extension=ts&play_token=TzEc1AJc1U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154772.png" group-title="BG| BULGARIA",BG| BG MUSIC HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154772&extension=ts&play_token=tzLktKJbjo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154771.png" group-title="BG| BULGARIA",BG| BG MUSIC
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154771&extension=ts&play_token=z6P1aXRtW5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154774.png" group-title="BG| BULGARIA",BG| BHTV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154774&extension=ts&play_token=fV6afkYS68
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154776.png" group-title="BG| BULGARIA",BG| BLOOMBERG
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154776&extension=ts&play_token=UzjwG6PsKb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154797.png" group-title="BG| BULGARIA",BG| BLOOMBERG TV BULGARIA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154797&extension=ts&play_token=IoWmEDqCzC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154778.png" group-title="BG| BULGARIA",BG| BNT 1
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154778&extension=ts&play_token=ZZp4y8OT8x
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154779.png" group-title="BG| BULGARIA",BG| BNT 1 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154779&extension=ts&play_token=rHrtBiTTcr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154780.png" group-title="BG| BULGARIA",BG| BNT 2
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154780&extension=ts&play_token=xpsny8nOXr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154781.png" group-title="BG| BULGARIA",BG| BNT 2 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154781&extension=ts&play_token=IlaX6Tgv8I
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154782.png" group-title="BG| BULGARIA",BG| BNT 3 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154782&extension=ts&play_token=qAUw5NiJQ8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154783.png" group-title="BG| BULGARIA",BG| BNT 4 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154783&extension=ts&play_token=KC4EF6QGzg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154784.png" group-title="BG| BULGARIA",BG| BNT 4 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154784&extension=ts&play_token=K8Ju88zH8R
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154785.png" group-title="BG| BULGARIA",BG| BNT WORD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154785&extension=ts&play_token=TsyxONqpwF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154798.png" group-title="BG| BULGARIA",BG| BULGARIA ON AIR
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154798&extension=ts&play_token=s51fHxmhLI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154799.png" group-title="BG| BULGARIA",BG| CARTOONITO FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154799&extension=ts&play_token=HpExAQZ7ZR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154800.png" group-title="BG| BULGARIA",BG| BOX HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154800&extension=ts&play_token=zCuMNnF4Ui
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154786.png" group-title="BG| BULGARIA",BG| BOX TV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154786&extension=ts&play_token=7IA7NW7sR8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154801.png" group-title="BG| BULGARIA",BG| BULGARIA 24
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154801&extension=ts&play_token=AWhWHNmfMz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154802.png" group-title="BG| BULGARIA",BG| BULGARIA ON AIR HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154802&extension=ts&play_token=IvZRlPH0cr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154803.png" group-title="BG| BULGARIA",BG| C&I NETWORK
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154803&extension=ts&play_token=w3omZFzNhU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154804.png" group-title="BG| BULGARIA",BG| CARTOON NETWORK FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154804&extension=ts&play_token=oM1PC7mHyx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154805.png" group-title="BG| BULGARIA",BG| CBS REAILTY
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154805&extension=ts&play_token=nze0XUn735
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1758108.png" group-title="BG| BULGARIA",BG| CINEMANIA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1758108&extension=ts&play_token=dyZmoxtYYO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154809.png" group-title="BG| BULGARIA",BG| ARENA LIFE
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154809&extension=ts&play_token=BmgvdDsfKQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154810.png" group-title="BG| BULGARIA",BG| CINEMAX
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154810&extension=ts&play_token=a0leRzil7X
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154811.png" group-title="BG| BULGARIA",BG| CINEMAX 2
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154811&extension=ts&play_token=1qZ7PeliAL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154812.png" group-title="BG| BULGARIA",BG| CINEMAX 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154812&extension=ts&play_token=COQ84ey5CI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154813.png" group-title="BG| BULGARIA",BG| CINEMAX HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154813&extension=ts&play_token=25EQ1h8AVz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1339772.png" group-title="BG| BULGARIA",BG| FILMBOX HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1339772&extension=ts&play_token=ULCMfXuCm8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1339773.png" group-title="BG| BULGARIA",BG| FILMBOX STARS HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1339773&extension=ts&play_token=PZPGsU9Q8a
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1339771.png" group-title="BG| BULGARIA",BG| FILMBOX EXTRA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1339771&extension=ts&play_token=02OTCca0xs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154806.png" group-title="BG| BULGARIA",BG| CITY TV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154806&extension=ts&play_token=vKayYZrTOP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1491967.png" group-title="BG| BULGARIA",BG| CODE HEALTH TV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1491967&extension=ts&play_token=h6tJS7v7J1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1517948.png" group-title="BG| BULGARIA",BG| 100 AUTOMOTO TV FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1517948&extension=ts&play_token=sf7ywRRTCh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154814.png" group-title="BG| BULGARIA",BG| CODE FASHION TV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154814&extension=ts&play_token=9GIPuHb9ax
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154808.png" group-title="BG| BULGARIA",BG| ARENA COMEDY
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154808&extension=ts&play_token=ZeaYNIUKzE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1532093.png" group-title="BG| BULGARIA",BG| DJAZZ HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1532093&extension=ts&play_token=sT8mFoa9jR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154825.png" group-title="BG| BULGARIA",BG| DAVINCI LEARNING
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154825&extension=ts&play_token=qBbhKanjpG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154817.png" group-title="BG| BULGARIA",BG| DIEMA FAMILY
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154817&extension=ts&play_token=LZ02JtakNu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154816.png" group-title="BG| BULGARIA",BG| 7/8 TV FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154816&extension=ts&play_token=kGn0RDsm7n
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154818.png" group-title="BG| BULGARIA",BG| DIEMA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154818&extension=ts&play_token=d4ttU0lWyE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154821.png" group-title="BG| BULGARIA",BG| DIEMA TV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154821&extension=ts&play_token=6u8qkFVnnv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154827.png" group-title="BG| BULGARIA",BG| DIEMA SPORT FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154827&extension=ts&play_token=LQZcIMzBWl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154819.png" group-title="BG| BULGARIA",BG| DIEMA SPORT 1 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154819&extension=ts&play_token=q8JaFStWsT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154826.png" group-title="BG| BULGARIA",BG| DIEMA SPORT 2
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154826&extension=ts&play_token=qPXcenKQJo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154820.png" group-title="BG| BULGARIA",BG| DIEMA SPORT 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154820&extension=ts&play_token=uw9jDDVA4l
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1457953.png" group-title="BG| BULGARIA",BG| DIEMA SPORT 3 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1457953&extension=ts&play_token=mT9s32ibHe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154916.png" group-title="BG| BULGARIA",BG| DIEMA SPORT 3 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154916&extension=ts&play_token=IDCPr91kXI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154828.png" group-title="BG| BULGARIA",BG| DISCOVERY CHANNEL HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154828&extension=ts&play_token=lSBMwxAbJy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154822.png" group-title="BG| BULGARIA",BG| DISNEY CHANNEL
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154822&extension=ts&play_token=54PV18zPnd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154832.png" group-title="BG| BULGARIA",BG| DISNEY JUNIOR
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154832&extension=ts&play_token=g0fdRd6QP4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154833.png" group-title="BG| BULGARIA",BG| DOCUBOX HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154833&extension=ts&play_token=y1Bx7ISrkh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154824.png" group-title="BG| BULGARIA",BG| DSTV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154824&extension=ts&play_token=xF7dJipy2q
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154834.png" group-title="BG| BULGARIA",BG| DUCK TV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154834&extension=ts&play_token=NUt7MFM0uZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154835.png" group-title="BG| BULGARIA",BG| E-KIDS
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154835&extension=ts&play_token=cYN51k5QCo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154840.png" group-title="BG| BULGARIA",BG| EPICDRAMA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154840&extension=ts&play_token=fqBFhG1UrZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154836.png" group-title="BG| BULGARIA",BG| EUROSPORT
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154836&extension=ts&play_token=HMovD5oY0w
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154841.png" group-title="BG| BULGARIA",BG| EUROSPORT 2
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154841&extension=ts&play_token=R6aT2DSmoI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154837.png" group-title="BG| BULGARIA",BG| EUROSPORT 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154837&extension=ts&play_token=FcD08dimZS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154842.png" group-title="BG| BULGARIA",BG| EUROSPORT HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154842&extension=ts&play_token=RUl8lEsQJr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154838.png" group-title="BG| BULGARIA",BG| EVROKOM
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154838&extension=ts&play_token=wJZIVd2U5p
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154839.png" group-title="BG| BULGARIA",BG| EVROKOM HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154839&extension=ts&play_token=6DXaeHqtqD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154850.png" group-title="BG| BULGARIA",BG| FEN FOLK TV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154850&extension=ts&play_token=ixjDYbrYbt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154844.png" group-title="BG| BULGARIA",BG| FEN TV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154844&extension=ts&play_token=P9618wFA0x
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154845.png" group-title="BG| BULGARIA",BG| FEN TV SD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154845&extension=ts&play_token=nB9oq2KI9c
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1758311.png" group-title="BG| BULGARIA",BG| FIGHTKLUB FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1758311&extension=ts&play_token=EiMtFo3Ln4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154851.png" group-title="BG| BULGARIA",BG| FIGHTBOX HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154851&extension=ts&play_token=jH6xbnj8mO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154847.png" group-title="BG| BULGARIA",BG| FOLKLOR TV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154847&extension=ts&play_token=sOM8pn3DYQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154855.png" group-title="BG| BULGARIA",BG| FOLKLOR TV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154855&extension=ts&play_token=z8lhiKT96E
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154848.png" group-title="BG| BULGARIA",BG| FOOD NETWORK
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154848&extension=ts&play_token=CuPW559ujC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154849.png" group-title="BG| BULGARIA",BG| STAR CHANNEL
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154849&extension=ts&play_token=8vG69G237l
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154856.png" group-title="BG| BULGARIA",BG| STAR CRIME
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154856&extension=ts&play_token=sPNpTC8gwM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154857.png" group-title="BG| BULGARIA",BG| STAR CRIME HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154857&extension=ts&play_token=o6ZeuPxjSf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154858.png" group-title="BG| BULGARIA",BG| STAR LIFE
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154858&extension=ts&play_token=uWQ44cXfIw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154859.png" group-title="BG| BULGARIA",BG| STAR LIFE HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154859&extension=ts&play_token=JHV3smtK5Z
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1571550.png" group-title="BG| BULGARIA",BG| HGTV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1571550&extension=ts&play_token=O9RTUo0igl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154861.png" group-title="BG| BULGARIA",BG| HBO 1 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154861&extension=ts&play_token=57ZTdkRCTh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154862.png" group-title="BG| BULGARIA",BG| HBO 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154862&extension=ts&play_token=eDbC6XsyYu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154863.png" group-title="BG| BULGARIA",BG| HBO 3 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154863&extension=ts&play_token=rYeeO6thaq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154866.png" group-title="BG| BULGARIA",BG| HISTORY CHANNEL
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154866&extension=ts&play_token=LAYj0OCcEW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154867.png" group-title="BG| BULGARIA",BG| HISTORY CHANNEL HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154867&extension=ts&play_token=n4QvWsdTcC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154868.png" group-title="BG| BULGARIA",BG| HIT MIX MUSIC
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154868&extension=ts&play_token=WN0r2xtZuO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1758315.png" group-title="BG| BULGARIA",BG| HOBBY LOV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1758315&extension=ts&play_token=rOzjz81UU3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1508638.png" group-title="BG| BULGARIA",BG| HOPE CHANNEL
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1508638&extension=ts&play_token=1t95qtLDdM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SHUMENT.png" group-title="BG| BULGARIA",BG| SHUMEN TV FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1762852&extension=ts&play_token=cRy7o8XBpv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ICONCERTS.png" group-title="BG| BULGARIA",BG| ICONCERTS
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1841724&extension=ts&play_token=6MXT5zfJUf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154872.png" group-title="BG| BULGARIA",BG| ID XTRA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154872&extension=ts&play_token=ks8PjxIIPO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154871.png" group-title="BG| BULGARIA",BG| ID XTRA
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154871&extension=ts&play_token=2eaxzkq1An
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154874.png" group-title="BG| BULGARIA",BG| JIM JAM
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154874&extension=ts&play_token=O7PIVlV3iO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154876.png" group-title="BG| BULGARIA",BG| KINO NOVA
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154876&extension=ts&play_token=wEZyvDAAZc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1508641.png" group-title="BG| BULGARIA",BG| LTV BULGARIA
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1508641&extension=ts&play_token=0Bf8EDr5NI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154878.png" group-title="BG| BULGARIA",BG| MAGIC TV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154878&extension=ts&play_token=ciIKbLyqXx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154879.png" group-title="BG| BULGARIA",BG| MAX SPORT 1 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154879&extension=ts&play_token=XCiQb5LlAl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154880.png" group-title="BG| BULGARIA",BG| MAX SPORT 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154880&extension=ts&play_token=tn8emobwV3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154881.png" group-title="BG| BULGARIA",BG| MAX SPORT 3 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154881&extension=ts&play_token=8dU9WGOQir
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154882.png" group-title="BG| BULGARIA",BG| MAX SPORT 4 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154882&extension=ts&play_token=ZOedhuYKrg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154884.png" group-title="BG| BULGARIA",BG| MOVIE STAR
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154884&extension=ts&play_token=7xLcVGPkbl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154883.png" group-title="BG| BULGARIA",BG| MOVIE STAR FULL HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154883&extension=ts&play_token=f3gxO0IEIY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1758319.png" group-title="BG| BULGARIA",BG| LOVE NATURE HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1758319&extension=ts&play_token=RjZKP1nDU5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1775776.png" group-title="BG| BULGARIA",BG| LOVE NATURE FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1775776&extension=ts&play_token=3wkYhFeUr0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154892.png" group-title="BG| BULGARIA",BG| NAT GEO HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154892&extension=ts&play_token=9WLMa7hltR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154893.png" group-title="BG| BULGARIA",BG| NAT GEO WILD HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154893&extension=ts&play_token=3oe7JyXx5f
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154942.png" group-title="BG| BULGARIA",BG| WILD TV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154942&extension=ts&play_token=BFTKfAgOj6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154886.png" group-title="BG| BULGARIA",BG| NATIONAL GEOGRAPHIC
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154886&extension=ts&play_token=8Y9GDCFhme
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1758313.png" group-title="BG| BULGARIA",BG| NICKTOONS
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1758313&extension=ts&play_token=ixjmiMBdO2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154896.png" group-title="BG| BULGARIA",BG| NICKELODEON
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154896&extension=ts&play_token=QVrxhXjQWx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154895.png" group-title="BG| BULGARIA",BG| NICK JR
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154895&extension=ts&play_token=EG5zlpu9kD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1758109.png" group-title="BG| BULGARIA",BG| NOSTALGIA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1758109&extension=ts&play_token=fwQmxBf7xd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154887.png" group-title="BG| BULGARIA",BG| NOVA
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154887&extension=ts&play_token=RUQafoDnyI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1141345.png" group-title="BG| BULGARIA",BG| NOVA NEWS HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1141345&extension=ts&play_token=Fg8LrTJhRU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154888.png" group-title="BG| BULGARIA",BG| NOVA SPORT
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154888&extension=ts&play_token=1lRfzATyWk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154889.png" group-title="BG| BULGARIA",BG| NOVA SPORT HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154889&extension=ts&play_token=YRod3boXRg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154890.png" group-title="BG| BULGARIA",BG| NOVA TV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154890&extension=ts&play_token=gxr1wyERlp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154891.png" group-title="BG| BULGARIA",BG| NRJ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154891&extension=ts&play_token=69U1vXqT8J
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154898.png" group-title="BG| BULGARIA",BG| PERVIY KANAL
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154898&extension=ts&play_token=cDKcNJZ5i0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154908.png" group-title="BG| BULGARIA",BG| PLANETA
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154908&extension=ts&play_token=Z2XUuEh8Me
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154899.png" group-title="BG| BULGARIA",BG| PLANETA FOLK FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154899&extension=ts&play_token=rPi8by8hz2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154900.png" group-title="BG| BULGARIA",BG| PLANETA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154900&extension=ts&play_token=8ShQFqvf27
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154901.png" group-title="BG| BULGARIA",BG| PLANETA TV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154901&extension=ts&play_token=uPOzNkakzs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154902.png" group-title="BG| BULGARIA",BG| PP TV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154902&extension=ts&play_token=RBDfdlAvxg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154910.png" group-title="BG| BULGARIA",BG| RING HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154910&extension=ts&play_token=kxyfDk1vZJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1508639.png" group-title="BG| BULGARIA",BG| RETRO MUSIC TV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1508639&extension=ts&play_token=mGwLigPjS6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1508637.png" group-title="BG| BULGARIA",BG| RIMEX TV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1508637&extension=ts&play_token=p5GL1kRMtW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154911.png" group-title="BG| BULGARIA",BG| RING TV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154911&extension=ts&play_token=NvwLG7Xo4n
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154913.png" group-title="BG| BULGARIA",BG| RODINA TV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154913&extension=ts&play_token=XnTMnMf52b
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154912.png" group-title="BG| BULGARIA",BG| ROMA TV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154912&extension=ts&play_token=1XJVkgjtzb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1758312.png" group-title="BG| BULGARIA",BG| SUPPERTOONS HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1758312&extension=ts&play_token=MaXEyHEWy0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1508640.png" group-title="BG| BULGARIA",BG| THIS IS BULGARIA
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1508640&extension=ts&play_token=awNOzgSeJR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154928.png" group-title="BG| BULGARIA",BG| THE VOICE
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154928&extension=ts&play_token=ikivo4k2Op
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1529010.png" group-title="BG| BULGARIA",BG| THE VOICE FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1529010&extension=ts&play_token=iSTT8GLpge
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1758310.png" group-title="BG| BULGARIA",BG| THE WORLD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1758310&extension=ts&play_token=cwH1YFF321
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154930.png" group-title="BG| BULGARIA",BG| TIANKOV FOLK HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154930&extension=ts&play_token=p3T9ieS9iv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154931.png" group-title="BG| BULGARIA",BG| TIANKOV ORIENT FOLK
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154931&extension=ts&play_token=fqG7ppr7MN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154918.png" group-title="BG| BULGARIA",BG| TLC
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154918&extension=ts&play_token=kPNJcpl6aP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154932.png" group-title="BG| BULGARIA",BG| TRACE SPORT STARS
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154932&extension=ts&play_token=neHDaKxRc1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154933.png" group-title="BG| BULGARIA",BG| TRACE SPORT STARS HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154933&extension=ts&play_token=W2KAR7Zxnd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154919.png" group-title="BG| BULGARIA",BG| TRAVEL CHANNEL
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154919&extension=ts&play_token=Gf9jnn5EsA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154934.png" group-title="BG| BULGARIA",BG| TRAVEL CHANNEL FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154934&extension=ts&play_token=yaLBctXyTD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154935.png" group-title="BG| BULGARIA",BG| TRAVEL TV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154935&extension=ts&play_token=rg1pXeSot1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154920.png" group-title="BG| BULGARIA",BG| TRAVEL TV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154920&extension=ts&play_token=EBAtL13IYb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154925.png" group-title="BG| BULGARIA",BG| TV1
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154925&extension=ts&play_token=cxHlFII78x
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154926.png" group-title="BG| BULGARIA",BG| TV1 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154926&extension=ts&play_token=Fv9sZ5QRgM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154921.png" group-title="BG| BULGARIA",BG| VIASAT KINO PREMIERE
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154921&extension=ts&play_token=HrhgI03hpR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154923.png" group-title="BG| BULGARIA",BG| EURONEWS FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154923&extension=ts&play_token=tjhDOt9rUB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1491965.png" group-title="BG| BULGARIA",BG| TVN BULGARIA
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1491965&extension=ts&play_token=UpqTU86MrW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1758309.png" group-title="BG| BULGARIA",BG| TVT FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1758309&extension=ts&play_token=ZBCFSR993A
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1491966.png" group-title="BG| BULGARIA",BG| TV ZAGORA
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1491966&extension=ts&play_token=qJgPs9wfJJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154938.png" group-title="BG| BULGARIA",BG| VIASAT EXPLORER
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154938&extension=ts&play_token=GAxhIC8wcF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154939.png" group-title="BG| BULGARIA",BG| VIASAT HISTORY
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154939&extension=ts&play_token=eZX6iUPAA9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154940.png" group-title="BG| BULGARIA",BG| VIASAT HISTORY HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154940&extension=ts&play_token=QrMTNYMrET
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154941.png" group-title="BG| BULGARIA",BG| VIASAT NATURE
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154941&extension=ts&play_token=lGoQvl17w2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154937.png" group-title="BG| BULGARIA",BG| VTK
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154937&extension=ts&play_token=IMUwf7KWUM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154943.png" group-title="BG| BULGARIA",BG| WNESSTV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154943&extension=ts&play_token=mCgQ0qDU9U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154944.png" group-title="BG| BULGARIA",BG| WNESSTV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=154944&extension=ts&play_token=QOuSeU3GGT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/83260.png" group-title="BG| BULGARIA",BG| MAX SPORT 1 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=83260&extension=ts&play_token=YDfdYacwhC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/83259.png" group-title="BG| BULGARIA",BG| MAX SPORT 2 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=83259&extension=ts&play_token=kXRCzr5cRq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/83258.png" group-title="BG| BULGARIA",BG| MAX SPORT 3 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=83258&extension=ts&play_token=IUkcMvIczo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/83257.png" group-title="BG| BULGARIA",BG| MAX SPORT 4 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=83257&extension=ts&play_token=ky5s36A4cp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1446558.png" group-title="BG| BULGARIA",BG| V2BEAT TV
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1446558&extension=ts&play_token=gBhcft8CqY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1508635.png" group-title="BG| BULGARIA",BG| NOVA NEWS
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1508635&extension=ts&play_token=UPZ9t2mA6m
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1510040.png" group-title="BG| BULGARIA",BG| KANAL 3 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1510040&extension=ts&play_token=RWe8wbdnH1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1447191.png" group-title="BG| BULGARIA",BG| SPORTAL
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1447191&extension=ts&play_token=MjZoz4nDPd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1758308.png" group-title="BG| BULGARIA",BG| DIZI TV FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1758308&extension=ts&play_token=LNa0FGEsAD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1616442.png" group-title="BG| BULGARIA",BG| MTV LIVE FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1616442&extension=ts&play_token=GbcWnfAqVj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1616441.png" group-title="BG| BULGARIA",BG| MTV CLUB
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1616441&extension=ts&play_token=YcyULcanG5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1616440.png" group-title="BG| BULGARIA",BG| MTV 80s
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1616440&extension=ts&play_token=9oJ8Ia1Ekj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1616439.png" group-title="BG| BULGARIA",BG| MTV 90s FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1616439&extension=ts&play_token=3cqubYDj6m
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1616438.png" group-title="BG| BULGARIA",BG| MTV 00s
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1616438&extension=ts&play_token=ibsYvjM077
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1616437.png" group-title="BG| BULGARIA",BG| MTV HITS
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1616437&extension=ts&play_token=HMPXkLhw9A
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1616436.png" group-title="BG| BULGARIA",BG| MTV DANCE
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1616436&extension=ts&play_token=pyWamwf0eV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1616435.png" group-title="BG| BULGARIA",BG| MTV FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1616435&extension=ts&play_token=08UsWwkcNf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1616434.png" group-title="BG| BULGARIA",BG| MTV CLASSIC
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1616434&extension=ts&play_token=BPByUXAWvd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BG| BULGARIA",BG| VEVO '70S
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1898945&extension=ts&play_token=sdR2YWCfdZ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BG| BULGARIA",BG| VEVO '80S
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1898944&extension=ts&play_token=M2HdK2Obwj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BG| BULGARIA",BG| VEVO '90S
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1898943&extension=ts&play_token=axgaaZ39K7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BG| BULGARIA",BG| VEVO 2K
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1898942&extension=ts&play_token=dXM5iDxvTW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BG| BULGARIA",BG| VEVO COUNTRY
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1898941&extension=ts&play_token=YBk6OwMHMs
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BG| BULGARIA",BG| VEVO HIP-HOP
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1898940&extension=ts&play_token=nAmOe2TLAh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BG| BULGARIA",BG| VEVO R&B
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1898939&extension=ts&play_token=sfnk0clpHE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1902537.png" group-title="BG| BULGARIA",BG| VEVO LATINO
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1902537&extension=ts&play_token=fI1QoHQQIY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1902536.png" group-title="BG| BULGARIA",BG| VEVO POP
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1902536&extension=ts&play_token=2GgzrJNMXj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1902535.png" group-title="BG| BULGARIA",BG| VEVO REGGAETON & TRAP
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1902535&extension=ts&play_token=HmiEksPq3x
+#EXTINF:-1 tvg-logo="" group-title="BG| BULGARIA",BG| XTREME OUTDOOR
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1904740&extension=ts&play_token=x728SjWlkM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE ROCK X METAL
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1904739&extension=ts&play_token=r8uXeaVLYH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE RAP GAME
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1904738&extension=ts&play_token=CGdG0PdE3E
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE R&B FEELS
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1904737&extension=ts&play_token=y7Uoggiutq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE R&B CLASSIC JAMS
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1904736&extension=ts&play_token=jGQOJWSHUa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE NUEVO LATINO
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1904735&extension=ts&play_token=7yyqJNds60
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE HITS
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1904734&extension=ts&play_token=xrsp9TExSV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE HIP-HOP EVOLUTION
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1904733&extension=ts&play_token=uUtfRptPbf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE GOSPEL
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1904732&extension=ts&play_token=lGT9XtU6qo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE COUNTRY TODAY
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1904731&extension=ts&play_token=wUM3SpfPcm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE CLASSIC COUNTRY
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1904730&extension=ts&play_token=LbRcbyRI1p
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE CHRISTIAN HITS
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1904729&extension=ts&play_token=4UTERWgJQR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE CELEBRATES
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1904728&extension=ts&play_token=z7O9RC35v0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE 90S THROWBACK
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1904727&extension=ts&play_token=qdIJutLHwI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE 80S FLASHBACK
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1904726&extension=ts&play_token=0QPr1zESIz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE 60S & 70S GROOVE
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1904725&extension=ts&play_token=DEiLTKFP8w
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862377.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",###### BULGARIA ⱽᴵᴾ ᴿᴬᵂ ######
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862377&extension=ts&play_token=DJQQDx6Bgu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862376.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| 24 KITCHEN ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862376&extension=ts&play_token=KrMVHDEJ5g
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862375.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| ACTION BOX ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862375&extension=ts&play_token=9ixA9CyEKe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862374.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| AGRO TV ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862374&extension=ts&play_token=kWQ9W7hYv3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862373.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BALKANIKA TV ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862373&extension=ts&play_token=ryQDu6oA4o
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862372.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BG + ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862372&extension=ts&play_token=3oKTtoPHBb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862371.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BLOOMBERG TV BULGARIA ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862371&extension=ts&play_token=jrYP9BoZiS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862370.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BNT 1 ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862370&extension=ts&play_token=vvyUpDLeEN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862369.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BNT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862369&extension=ts&play_token=pzzW9sMSNO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862368.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BNT 3 ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862368&extension=ts&play_token=oNrkRhQ3oc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862367.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BNT 4 ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862367&extension=ts&play_token=P8ppdz6XxG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862366.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BTK TV ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862366&extension=ts&play_token=uC8DkOMPR0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862365.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BTV ACTION ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862365&extension=ts&play_token=fFhxsZLR9m
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862364.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BTV CINEMA ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862364&extension=ts&play_token=haYGD1IsDf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862363.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BTV COMEDY ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862363&extension=ts&play_token=ME71wolIYl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862362.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BTV STORY ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862362&extension=ts&play_token=rHDa5Go8Ic
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862361.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BTV ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862361&extension=ts&play_token=L0CrwGVRok
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862360.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BULGARIA ON AIR ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862360&extension=ts&play_token=JGweKP2RFX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862359.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| CARTOON NETWORK ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862359&extension=ts&play_token=gfzqigKc5l
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862358.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| CINEBOX ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862358&extension=ts&play_token=5T8BFlvxO4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862357.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| CITY TV ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862357&extension=ts&play_token=hW1xTJOiF5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862356.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| CODE FASHION ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862356&extension=ts&play_token=deeYdam5MG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862355.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| CODE HEALTH ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862355&extension=ts&play_token=ayehZLdUWM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862354.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| COMEDYBOX ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862354&extension=ts&play_token=YKXuNn9oZW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862353.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| DIEMA FAMILY ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862353&extension=ts&play_token=p5KrXbT8yU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862352.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| DIEMA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862352&extension=ts&play_token=p8vfUYpc9k
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862351.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| DIEMA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862351&extension=ts&play_token=WakmdFnFfz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862350.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| DIEMA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862350&extension=ts&play_token=3QJ6QMl8N2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862349.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| DIEMA ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862349&extension=ts&play_token=OFAlF9l80V
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862348.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| DOCUBOX ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862348&extension=ts&play_token=d89KdfdMc2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862347.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| DSTV ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862347&extension=ts&play_token=WrtRAIgEtu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862346.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| EKIDS ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862346&extension=ts&play_token=hTCMRSgtTL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862345.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| EURONEWS ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862345&extension=ts&play_token=MAWm6JpMtj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862344.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| EVROKOM ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862344&extension=ts&play_token=pdJCE3AheI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862343.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| FEN FOLK ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862343&extension=ts&play_token=qq16vtZgsp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862342.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| FEN ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862342&extension=ts&play_token=zw5ApXdlBA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862341.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| FILMBOX ARTHOUSE ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862341&extension=ts&play_token=QhZfbKE58s
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862340.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| FILMBOX EXTRA ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862340&extension=ts&play_token=RWFQdiIBE4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862339.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| FILMBOX STARS ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862339&extension=ts&play_token=j6NJGs6S51
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862338.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| FILMBOX ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862338&extension=ts&play_token=jtRMfcj4Vq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862337.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| KANAL 3 ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862337&extension=ts&play_token=isaY1Ku336
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862336.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| KINO NOVA ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862336&extension=ts&play_token=qqCwuY6hnB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862335.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| MAGIC TV ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862335&extension=ts&play_token=EsnTdMJFxU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862334.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| MAX SPORT 1 ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862334&extension=ts&play_token=SzwuV5ZU1t
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862333.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| MAX SPORT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862333&extension=ts&play_token=ViRhSbG17J
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862332.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| MAX SPORT 3 ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862332&extension=ts&play_token=KULdmZIGSo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862331.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| MAX SPORT 4 ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862331&extension=ts&play_token=SexIYWsgVn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862330.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| NICKELODEON ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862330&extension=ts&play_token=iPJKkitvaa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862329.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| NICK JR. ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862329&extension=ts&play_token=g5XyrXhfIm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862328.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| NOVA NEWS ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862328&extension=ts&play_token=ZoJWbUylB1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862327.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| NOVA SPORT ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862327&extension=ts&play_token=cj7Xjq1gdd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862326.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| NOVA ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862326&extension=ts&play_token=z7FEA8LuZz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862325.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| PLANETA FOLK ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862325&extension=ts&play_token=lcbUdvu1Ok
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862324.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| PLANETA ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862324&extension=ts&play_token=kXZqDI4C4f
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862323.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| RING ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862323&extension=ts&play_token=E3UzJXfw4h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862322.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| RODINA TV ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862322&extension=ts&play_token=uP1Vfb9LLs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862321.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| THE VOICE ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862321&extension=ts&play_token=4uJmxS88Jf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862320.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| TIANKOV FOLK ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862320&extension=ts&play_token=In1y35wKBF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862319.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| TIANKOV ORIENT FOLK ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862319&extension=ts&play_token=8uCbGRWpoY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862318.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| TRAVEL TV ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862318&extension=ts&play_token=RC0E2j5N65
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862317.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| TV 1 ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862317&extension=ts&play_token=n6aAOMDmZj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862316.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| TV 7/8 ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862316&extension=ts&play_token=Apu47zZbmJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862315.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| VIASAT EXPLORE ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862315&extension=ts&play_token=qtOThG0DjV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862314.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| VIASAT HISTORY ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862314&extension=ts&play_token=UiiNv43JgQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862313.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| VIASAT NATURE ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862313&extension=ts&play_token=CX9fAkpN2X
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862312.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| VTK ⱽᴵᴾ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=10:27:BE:24:54:A4&stream=1862312&extension=ts&play_token=oTi7gAi80Z
